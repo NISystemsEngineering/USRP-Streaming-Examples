@@ -22,21 +22,7 @@ To contribute to this project, it is recommended that you follow these steps:
 
 In order to work on this project, you must have the
 following installed:
-
-* Software
-    - LabVIEW 2016 32-bit or later
-    - LabVIEW FPGA
-    - NI USRP 17.0 or later
-    - NI HSDIO 17.0 or later
-    - NI LabVIEW Instrument Design Libraries for High Speed Serial Instruments 16.1 or later
-
-* Hardware
-    - TwinRX USRP (NI-29x5)
-    - HSDIO (e.g. PXIe-6592R)
-    - PXIe chassis, controller and MXI card. The project was tested using the following setup
-        - PXIe-1095
-        - PXIe-8880
-        - PXIe-8374
+See example's own readme file.
 
 
 
