@@ -12,8 +12,6 @@ The USPR 2945 and 2955 (TwinRX) has four RX channels with 80MHz bandwidth (100MS
 
 The USRP 2954 and 2944 has two RX and two Tx channels with 160MHz bandwidth (200MS/s). Streaming all the channels with full bandwidth will give an overall data throughput of 1.6 GB/s: 2 channels x 2 channels (IQ) x 2 Bytes per samples x 200 MS/s = 1.6 GB/s. The MXIe connection on the USRP can only handle 800 MB/s so it cannot stream the full bandwidth. The two SFP+ ports on the USRP give the possibility to stream the full bandwidth using one x1 Aurora streams (10.3125 Gbps per lane) for each channel.
 
-### USRP_2954-2955_Streaming_Aurora:
-
 ## Solution
 
 ### USRP_TwinRx_Streaming_Aurora:
